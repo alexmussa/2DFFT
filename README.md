@@ -7,7 +7,7 @@ p32 - MPI Implementation
 
 p33 - CUDA
 
-These codes use cmake version 3.8, mpicc, gcc 7.3, and CUDA to be installed.
+These codes use cmake version 3.8, mpicc 1.8, gcc 4.9, and CUDA to be installed. Make sure to load gcc/4.9.0, cmake/3.9.1, openmpi/1.8, and cuda/9.1 before following the instructions below.
 
 INSTRUCTIONS:
 
