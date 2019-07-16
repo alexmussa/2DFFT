@@ -2,7 +2,9 @@
 Three codes that implement the Forward and Inverse 2DFFT in MPI, C++ Threads, and CUDA.
 
 p31 - C++ Threads Implementation
+
 p32 - MPI Implementation
+
 p33 - CUDA
 
 These codes use cmake version 3.8, mpicc, gcc 7.3, and CUDA to be installed.
